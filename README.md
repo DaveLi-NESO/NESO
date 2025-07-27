@@ -1,7 +1,7 @@
 # NESO
 Network Encrypted Sovereign Dollar: a Stable Digital Currency System
 
-Network Encrypted Sovereign Dolloar (NESO) is a stable digital currency system that combines sovereign legitimacy and crypto anonymity, with the goal of allowing a unit of real world economic value to be stored and passed from one party to another without having to a) go through a financial institution, b) compute crypto tokens as proof-of-work, and c) rely on a block-chain network for transaction verification. The mathematical construct of the stable currency maintains par value to the Unites States Dollar, while AES-256 encryption algorithm ensures the user and transaction anonymity. There is no need for block chain type of network for transaction verification because three-party encryption with public and private key pairs are used to ensure transaction integrity.
+Network Encrypted Sovereign Dolloar (NESO) is a stable digital currency system that combines sovereign legitimacy and crypto anonymity, with the goal of allowing a unit of real world economic value to be stored and passed from one party to another without having to a) go through a financial institution, b) compute crypto tokens as proof-of-work, and c) rely on a block-chain network for transaction verification. The mathematical construct of the stable currency maintains par value to the Unites States Dollar, while RSA-256 encryption algorithm ensures the user and transaction anonymity. There is no need for block chain type of network for transaction verification because three-party encryption with public and private key pairs are used to ensure transaction integrity.
 
 1. Introduction
 
